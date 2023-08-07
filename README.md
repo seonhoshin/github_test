@@ -8,6 +8,9 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 - HelloWorld 메서드 작성
 - temp 브랜치 생성 후 HelloWorld2 메서드 작성
 - temp 브랜치를 Main 브랜치로 병합
+- dev 브랜치 생성
+- dev 브랜치에서 파일 수정 후 origin/dev로 push
+- origin/dev에서 origin/main으로 pull Request
 
 ## Contributors
 
