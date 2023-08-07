@@ -15,7 +15,7 @@ public class RecommendationController {
         return "Temp-temp Application !";
     }
 
-    @GetMapping
+    @GetMapping("/dev")
     public String helloPR(){
         return "Pull Request";
     }
